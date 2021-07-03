@@ -1,4 +1,4 @@
-k=4
-j=6
-p=k+j
-print(p)
+h=123
+i=456
+j=h+i
+print(j)

@@ -1,5 +1,4 @@
-import pandas
-a=1
-b=2
-c=a+b
-print(c)
+k=4
+j=6
+p=k+j
+print(p)
